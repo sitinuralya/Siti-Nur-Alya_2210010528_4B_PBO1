@@ -6,7 +6,7 @@ Proyek ini merupakan aplikasi sederhana untuk pengelolaan informasi sepatu berba
 
 Aplikasi ini memungkinkan pengguna untuk menginput jenis dan jumlah sepatu yang ingin dibeli, dan menampilkan informasi detail mengenai sepatu tersebut seperti deskripsi, stok, dan harga. Deskripsi setiap jenis sepatu didapat berdasarkan jenis yang dimasukkan, dan harga serta stok sudah ditetapkan sesuai dengan jenis sepatu.
 
-Aplikasi ini mengimplementasikan beberapa konsep penting dalam pemrograman berorientasi objek (OOP) seperti Class, Object, Atribut, Method Constructor, Method Mutator, Method Accessor, Encapsulation, Inheritance, Overloading, Overriding, Seleksi, IO Sederhana, dan Error Handling.
+Aplikasi ini mengimplementasikan beberapa konsep penting dalam pemrograman berorientasi objek (OOP) seperti Class, Object, Atribut, Method Constructor, Method Mutator, Method Accessor, Encapsulation, Inheritance, Overriding, Seleksi, IO Sederhana, dan Error Handling.
 
 ## Penjelasan Kode
 
