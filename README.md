@@ -1,6 +1,6 @@
 # Proyek Akhir Pemrograman Berbasis Objek 1
 
-Proyek ini adalah contoh sederhana aplikasi pengolahan data mahasiswa menggunakan Java sebagai tugas akhir dari mata kuliah pemrograman berbasis objek 1.
+Proyek ini merupakan aplikasi sederhana untuk pengelolaan informasi sepatu berbasis Java, sebagai bagian dari tugas akhir mata kuliah Pemrograman Berbasis Objek 1.
 
 ## Deskripsi
 
